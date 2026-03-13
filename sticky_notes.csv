@@ -1,0 +1,61 @@
+note_id,environment,role_group,note_text,vote_count
+N001,executive_boardroom,engineering,serious and focused. would use for client meetings,4
+N002,executive_boardroom,design,oppressive. too dark,2
+N003,executive_boardroom,operations,professional. maybe too much so,3
+N004,executive_boardroom,marketing,intimidating but in a good way for the right meeting,3
+N005,executive_boardroom,engineering,love the dark wood. authoritative,5
+N006,executive_boardroom,design,claustrophobic,1
+N007,executive_boardroom,product,would use for board presentations only,4
+N008,executive_boardroom,operations,needs natural light,3
+N009,executive_boardroom,marketing,not for creative work. ever.,2
+N010,executive_boardroom,engineering,gravitas. use for strategic reviews,4
+N011,nature_space,design,the light is perfect,8
+N012,nature_space,engineering,calming but slightly distracting,3
+N013,nature_space,operations,feels like a work retreat. love it,5
+N014,nature_space,marketing,best environment for long sessions,6
+N015,nature_space,design,refreshing. genuinely refreshing,7
+N016,nature_space,product,first space where i forgot i was in vr,8
+N017,nature_space,engineering,good but the plants are a bit much,2
+N018,nature_space,operations,the natural light!!,6
+N019,nature_space,marketing,would use for workshops and retrospectives,5
+N020,nature_space,design,grounded and calm. use this for sensitive conversations,4
+N021,clean_studio,engineering,perfect for focus work,5
+N022,clean_studio,design,sterile. clinical. empty,1
+N023,clean_studio,operations,functional. not beautiful but works,3
+N024,clean_studio,marketing,lonely,1
+N025,clean_studio,engineering,no distractions = actually in the meeting,6
+N026,clean_studio,design,waiting room energy,1
+N027,clean_studio,product,controversial but i like it,3
+N028,clean_studio,operations,add warmth to the light at minimum,2
+N029,clean_studio,engineering,this is the one i would use every day,5
+N030,clean_studio,marketing,needs one interesting thing. just one.,2
+N031,residential_warm,design,beautiful textures,4
+N032,residential_warm,engineering,too casual for real work,2
+N033,residential_warm,operations,comfortable but informal,3
+N034,residential_warm,marketing,would love this for team events,5
+N035,residential_warm,design,warm and welcoming,6
+N036,residential_warm,product,psychological safety material. use for sensitive 1on1s,7
+N037,residential_warm,engineering,living room not boardroom,2
+N038,residential_warm,operations,retrospective space for sure,5
+N039,residential_warm,marketing,client would not take me seriously in here,3
+N040,residential_warm,design,the cosiest. save for team socials,6
+N041,futuristic_tech,engineering,this is what vr should be,7
+N042,futuristic_tech,design,cold and alienating after 5 mins,1
+N043,futuristic_tech,operations,impressive but inhuman,2
+N044,futuristic_tech,marketing,product demo space. nothing else,3
+N045,futuristic_tech,engineering,love the ambient glow. native to the medium,6
+N046,futuristic_tech,design,too resolved. nothing imperfect,1
+N047,futuristic_tech,product,exciting but detached,3
+N048,futuristic_tech,engineering,innovation meetings only. not day to day,4
+N049,futuristic_tech,operations,would not have a real conversation here,2
+N050,futuristic_tech,marketing,visually stunning. emotionally cold,2
+N051,city_loft,design,creative energy is high,7
+N052,city_loft,engineering,city view is distracting after an hour,3
+N053,city_loft,operations,good for short sessions. not long ones,3
+N054,city_loft,marketing,perfect for creative briefs,8
+N055,city_loft,design,the dusk lighting is cinematic,6
+N056,city_loft,product,best for brainstorming,7
+N057,city_loft,engineering,honest about being a made environment. i like that,4
+N058,city_loft,operations,energising,5
+N059,city_loft,marketing,where i would pitch every campaign idea,6
+N060,city_loft,design,industrial warmth. unusual combination that works,5
